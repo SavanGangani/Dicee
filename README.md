@@ -1,4 +1,4 @@
-# ff_day2
+# Dicee
 
 A new Flutter project.
 
